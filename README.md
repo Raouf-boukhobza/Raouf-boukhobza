@@ -1,7 +1,9 @@
-# Hi there 👋,I'm Raouf Boukhobza
-### android developer
 
-# 💫 About Me:
+<div align = center>
+# Hi there 👋,I'm Raouf Boukhobza
+## android developer
+
+### 💫 About Me:
 🔭 I’m currently working on a Movies app<br>👯 I’m looking to collaborate on android apps<br>🌱 I’m currently learning Kotlin Multiplatform<br>💬 Ask me about kotlin , java , jetapck compose, xml <br>
 
 
@@ -17,5 +19,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Raouf-boukhobza&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
