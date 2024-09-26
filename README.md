@@ -5,7 +5,7 @@
 ## android developer
 
 ### 💫 About Me:
-🔭 I’m currently working on android apps <br>👯 I’m looking to collaborate on android apps<br>🌱 I’m currently learning Kotlin Multiplatform and Compose Multiplatform<br>💬 Ask me about kotlin , java , jetapck compose, xml <br>
+🔭 I’m currently working on android apps <br>👯 I’m looking to collaborate on android apps<br>🌱 I’m currently learning Kotlin Multiplatform and Compose Multiplatform<br>💬 Ask me about kotlin , java , jetapck compose, xml , FireBase <br>
 
 
 ## 🌐 Socials:
